@@ -1,0 +1,154 @@
+{
+  "settings": {
+    "name": "Redacción",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "colorm",
+      "title": "ColorM",
+      "styling": {
+        "primaryColor": "#f39c12",
+        "buttonsColor": "#000000",
+        "secondaryColor": "#9b59b6",
+        "successColor": "#2ecc71",
+        "infoColor": "#3498db",
+        "warningColor": "#f1c40f",
+        "dangerColor": "#e74c3c",
+        "titleFont": "Arvo",
+        "subtitleFont": "Montserrat",
+        "textFont": "Open Sans",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      },
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.1",
+    "siteFonts": [],
+    "uniqCompNum": 9,
+    "versionPublish": "4.8.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "buttonAlign": "right",
+            "showArrow": true,
+            "iconsColor": "#ffffff",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/05.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#8e44ad",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#8e44ad",
+            "overlayOpacity": 0.9
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "title": "Taller de Redacción Académica\n<div>Planeo, escribo y corrijo.</div>",
+          "text": "Mtro. francisco varela ibarra.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-1",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header2 mbr-section-with-arrow mbr-parallax-background\" data-rv-view=\"2\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/05.jpg&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.9; background-color: rgb(142, 68, 173);\"></div>\n\n    <div class=\"mbr-table-cell mbr-table-cell-vertical-bottom\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-10 col-lg-offset-1 text-xs-left\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"4\">UATx- Posgrado en Educación.<br><br>Taller de Redacción Académica\n<div>Planeo, escribo y corrijo.</div></h1>\n\n                    <div class=\"container-fluid padding-bottom-100\">\n                        <div class=\"row position-relative\">\n                            <div class=\"col-xs-12 col-md-5 padding-left-0 padding-right-0\">   \n\n                                <p class=\"mbr-section-subtitle display-3 margin-bottom-0 margin-top-0 mbr-editable-content\" code-editable-id=\"5\">Mtro. francisco varela ibarra (conductor).<br><br>ing. eduardo corona hernández (programación).<br><br>PÁGINA DE VIDEOS.</p>\n\n                            </div>\n\n                            <div class=\"col-xs-12 col-md-5 col-md-offset-2 text-xs-center text-md-right padding-left-0 padding-right-0 buttons-wrap\">\n        \n                                \n\n                            </div>\n                        </div>\n                    </div>\n\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/arrowdown.png\">\n        </a>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-section-title, .mbr-section-subtitle, .btn {\n  color: #fff;\n}\n.mbr-section-title {\n  font-weight: 700;\n}\n",
+          "_customTemplate": true
+        },
+        {
+          "_styles": {
+            "th": {
+              "color": "#9fa3a7"
+            },
+            "TH": {
+              "color": "#c0392b"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSearch": false,
+            "rowСount": "1",
+            "colCount": "1",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/flight-mountains-sky-flying.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#eeeeee",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.4
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>VIDEOS (ENLACES)&nbsp;</i></span>",
+          "search": "Search:",
+          "info1": "Showing",
+          "info2": "entries",
+          "info3": "(filtered from",
+          "info4": "total entries)",
+          "table": "<thead><tr><th>Tema</th></tr></thead><tbody><tr><td><a href=\"https://www.youtube.com/watch?v=O7YoG6Yx0nc&amp;t=3s\" target=\"_blank\" class=\"text-danger\">Acentuación general&nbsp;</a><br><br><a href=\"https://www.youtube.com/watch?v=c7ENUPHfV4s&amp;t=10s\" target=\"_blank\" class=\"text-danger\">Adjetivos calificativos</a><br><br><a href=\"https://www.youtube.com/watch?v=_YDO4ZxfU_E\" target=\"_blank\" class=\"text-danger\">Determinantes demostrativos   Gramática del español</a><br><br><a href=\"https://www.youtube.com/watch?v=E2S58cj1r6Y\" target=\"_blank\" class=\"text-danger\">La Eduteca   Los posesivos</a><br><br><a href=\"https://www.youtube.com/watch?v=5G_brwG9GXM\" target=\"_blank\" class=\"text-danger\">Los demostrativos   Tapas de español</a><br><br><a href=\"https://www.youtube.com/watch?v=QxQGUQu62vs\" target=\"_blank\" class=\"text-danger\">La Eduteca   El adverbio</a><br><br><a href=\"https://www.youtube.com/watch?v=5H5xYj1vjFw\" target=\"_blank\" class=\"text-danger\">Anáfora y Catáfora</a><br><br><a href=\"https://www.youtube.com/watch?v=VoNBJO_m8_o\" target=\"_blank\" class=\"text-danger\">Análisis Sintáctico de Oraciones   Videos Educativos</a><br><br><a href=\"https://www.youtube.com/watch?v=05kVG3IV4bI\" target=\"_blank\" class=\"text-danger\">ORACIÓN SIMPLE Análisis sintáctico en 10 pasos   Lengua española sintaxis   academia JAF</a><br><br><a href=\"https://www.youtube.com/watch?v=VrpoeJ6yfCE\" target=\"_blank\" class=\"text-danger\">Aprender español Uso de los artículos (nivel básico)</a><br><br><a href=\"https://www.youtube.com/watch?v=4lvL1gg9aNo\" target=\"_blank\" class=\"text-danger\">Coherencia y cohesión   Lengua   Educatina</a><br><br><a href=\"https://www.youtube.com/watch?v=n1EfMNtPiwc\" target=\"_blank\" class=\"text-danger\">Coherencia y cohesión en los textos</a><br><br><a href=\"https://www.youtube.com/watch?v=vkWXnHDv-Ac\" target=\"_blank\" class=\"text-danger\">Diferenciar el complemento directo del complemento indirecto</a><br><br><a href=\"https://www.youtube.com/watch?v=t5FTeN3p6u4\" target=\"_blank\" class=\"text-danger\">Conectores   Lengua   Educatina</a><br><br><a href=\"https://www.youtube.com/watch?v=X8yy3h7XjIE\" target=\"_blank\" class=\"text-danger\">Conectores oracionales</a><br><br><a href=\"https://www.youtube.com/watch?v=0yK64bAjrOw\" target=\"_blank\" class=\"text-danger\">Los Conectores de Texto   Videos Educativos&nbsp;</a><br><br><a href=\"https://www.youtube.com/watch?v=5VfNleREAoQ\" target=\"_blank\" class=\"text-danger\">Construcción Comparativa   Lengua   Educatina</a><br><br><a href=\"https://www.youtube.com/watch?v=g7gzLAAiiD8\" target=\"_blank\" class=\"text-danger\">Los deícticos</a><br><br><a href=\"https://www.youtube.com/watch?v=bG_UZbzPo-0\" target=\"_blank\" class=\"text-danger\">Deixis y tipos de deixis   Lengua   Educatina</a><br><br><a href=\"https://www.youtube.com/watch?v=ic-rJOAl1k8\" target=\"_blank\" class=\"text-danger\">Diferencia entre denotación y connotación</a><br><br><a href=\"https://www.youtube.com/watch?v=7hB3c2_PxYo\" target=\"_blank\" class=\"text-danger\">Reconocer los diptongos e hiatos</a><br><br><a href=\"https://www.youtube.com/watch?v=CarUDWAbDPc\" target=\"_blank\" class=\"text-danger\">La Eduteca   El artículo</a><br><br><a href=\"https://www.youtube.com/watch?v=R5iUW0Ca6mI\" target=\"_blank\" class=\"text-danger\">¿Cómo redactar un buen párrafo?</a><br><br><a href=\"https://www.youtube.com/watch?v=AOgVzDaxfO4\" target=\"_blank\" class=\"text-danger\">El párrafo características y estructura</a><br><br><a href=\"https://www.youtube.com/watch?v=jBI8s8f_VpQ\" target=\"_blank\" class=\"text-danger\">El Párrafo y El TextoEl Enunciado, el Párrafo y el Texto</a><br><br><a href=\"https://www.youtube.com/watch?v=qhP-TUyqTvA\" target=\"_blank\" class=\"text-danger\">Párrafos (Daniel Cassany)</a><br><br><a href=\"https://www.youtube.com/watch?v=-JWUIAvYbek\" target=\"_blank\" class=\"text-danger\">Tipos de párrafos, consejos y técnicas para su escritura</a><br><br><a href=\"https://www.youtube.com/watch?v=RVjgXeG4CWk\" target=\"_blank\" class=\"text-danger\">Elipsis en la coordinación   Lengua   Educatina</a><br><br><a href=\"https://www.youtube.com/watch?v=mMUziJB6jEM\" target=\"_blank\" class=\"text-danger\">La voz La entonación Lenguaje paraverbal</a><br><br><a href=\"https://www.youtube.com/watch?v=cZL01a98Axk\" target=\"_blank\" class=\"text-danger\">Construir la escritura  Daniel Cassany</a><br><br><a href=\"https://www.youtube.com/watch?v=S-uxFwtYB4A\" target=\"_blank\" class=\"text-danger\">TEORIA ESTRUCTURAL DEL TEXTO</a><br><br><a href=\"https://www.youtube.com/watch?v=Oeg7cPGxbKw\" target=\"_blank\" class=\"text-danger\">Figuras literarias</a><br><br><a href=\"https://www.youtube.com/watch?v=4Y5vEbbptGo\" target=\"_blank\" class=\"text-danger\">Género y número del adjetivo - Lengua - Educatina</a><br><br><a href=\"https://www.youtube.com/watch?v=S1rcA4kVKWc\" target=\"_blank\" class=\"text-danger\">Uso del gerundio - Normativa del lenguaje - Educatina</a><br><br><a href=\"https://www.youtube.com/watch?v=aj67-8dWIYU\" target=\"_blank\" class=\"text-danger\">Interjecciones</a><br><br><a href=\"https://www.youtube.com/watch?v=TgD9F9riXM8\" target=\"_blank\" class=\"text-danger\">Jerarquización de ideas</a><br><br><a href=\"https://www.youtube.com/watch?v=1vLO9o5VPSw&amp;t=2s\" target=\"_blank\" class=\"text-danger\">Jerarquización de la información 1   Lengua   Educatina</a><br><br><a href=\"https://www.youtube.com/watch?v=-G3xLiXfrIc\" target=\"_blank\" class=\"text-danger\">Uso de la coma   Reglas gramaticales   Educatina</a><br><br><a href=\"https://www.youtube.com/watch?v=t3JSEGZ6tBY\" target=\"_blank\" class=\"text-danger\">Tutorial El uso de la coma</a><br><br><a href=\"https://www.youtube.com/watch?v=NHzNrMXa-2g\" target=\"_blank\" class=\"text-danger\">La coma</a><br><br><a href=\"https://www.youtube.com/watch?v=_acb5IfyFkQ\" target=\"_blank\" class=\"text-danger\">La importancia de la coma</a><br><br><a href=\"https://www.youtube.com/watch?v=0aCLdibZLDk\" target=\"_blank\" class=\"text-danger\">La oracion gramatical</a><br><br><a href=\"https://www.youtube.com/watch?v=sZpxLsPcLqU\" target=\"_blank\" class=\"text-danger\">La importancia del lenguaje</a><br><br><a href=\"https://www.youtube.com/watch?v=tApuGBdp3Fs\" target=\"_blank\" class=\"text-danger\">Lenguaje   Capítulo Completo   El cerebro y Yo</a><br><br><a href=\"https://www.youtube.com/watch?v=C3io3IFJ1L4\" target=\"_blank\" class=\"text-danger\">Documental Curso de Linguistica General</a><br><br><a href=\"https://www.youtube.com/watch?v=GWpePZrYLHU\" target=\"_blank\" class=\"text-danger\">La lingüística como ventana a nuestra mente, Steven Pinker</a><br><br><a href=\"https://www.youtube.com/watch?v=sZrgtRnzM3c\" target=\"_blank\" class=\"text-danger\">Macro y Micro estructura</a><br><br><a href=\"https://www.youtube.com/watch?v=kYJRDNr5GL8\" target=\"_blank\" class=\"text-danger\">Macroestructura</a><br><br><a href=\"https://www.youtube.com/watch?v=08jWMycDMk8\" target=\"_blank\" class=\"text-danger\">Microestructuras Textuales</a><br><br><a href=\"https://www.youtube.com/watch?v=sZrgtRnzM3c&amp;t=25s\" target=\"_blank\" class=\"text-danger\">Macro y Micro estructura</a><br><br><a href=\"https://www.youtube.com/watch?v=aXVb16ajmOM\" target=\"_blank\" class=\"text-danger\">La métrica y las licencias poéticas</a><br><br><a href=\"https://www.youtube.com/watch?v=UTexE3alTXg\" target=\"_blank\" class=\"text-danger\">El modo subjuntivo   Parte 1</a><br><br><a href=\"https://www.youtube.com/watch?v=VOoTCECu7-k\" target=\"_blank\" class=\"text-danger\">Modo Subjuntivo   parte 2</a><br><br><a href=\"https://www.youtube.com/watch?v=VmP2lrCwTlQ\" target=\"_blank\" class=\"text-danger\">Modos y tiempos verbales en español</a><br><br><a href=\"https://www.youtube.com/watch?v=rThGEyKor5s\" target=\"_blank\" class=\"text-danger\">Núcleo del sujeto y Núcleo del predicado   Lengua   Educatina</a><br><br><a href=\"https://www.youtube.com/watch?v=VlhoFlWaPsQ\" target=\"_blank\" class=\"text-danger\">Clases de oraciones compuestas coordinadas, yuxtapuestas y subordinadas   Análisis sintáctico</a><br><br><a href=\"https://www.youtube.com/watch?v=DG5iWXxdRUo\" target=\"_blank\" class=\"text-danger\">Aprender español Oraciones condicionales reales (nivel intermedio)</a><br><br><a href=\"https://www.youtube.com/watch?v=Nrxp3hhd5Tw\" target=\"_blank\" class=\"text-danger\">Las oraciones impersonales</a><br><br><a href=\"https://www.youtube.com/watch?v=YNSn53c1be8\" target=\"_blank\" class=\"text-danger\">Cómo distinguir las subordinadas sustantivas, adjetivas y adverbiales</a><br><br><a href=\"https://www.youtube.com/watch?v=fIUCEBPbQhE\" target=\"_blank\" class=\"text-danger\">Subordinadas adjetivas</a><br><br><a href=\"https://www.youtube.com/watch?v=1kqFxH0YOc0\" target=\"_blank\" class=\"text-danger\">Reglas de ortografía   El uso de la v</a><br><br><a href=\"https://www.youtube.com/watch?v=TmCLTF4znl8\" target=\"_blank\" class=\"text-danger\">Uso de la h</a><br><br><a href=\"https://www.youtube.com/watch?v=wkdakwHTY-E\" target=\"_blank\" class=\"text-danger\">El uso de la g</a><br><br><a href=\"https://www.youtube.com/watch?v=XINyE-dM2sU\" target=\"_blank\" class=\"text-danger\">PARÁFRASIS</a><br><br><a href=\"https://www.youtube.com/watch?v=avdKNao9uiM\" target=\"_blank\" class=\"text-danger\">Qué es una perífrasis verbal</a><br><br><a href=\"https://www.youtube.com/watch?v=_vKmajhe-30\" target=\"_blank\" class=\"text-danger\">Plan de redacción 1</a><br><br><a href=\"https://www.youtube.com/watch?v=a4AYokqIyrI\" target=\"_blank\" class=\"text-danger\">Plan de redacción 2</a><br><br><a href=\"https://www.youtube.com/watch?v=qVL5oOKwuS8\" target=\"_blank\" class=\"text-danger\">Plan de Redacción Ejemplo</a><br><br><a href=\"https://www.youtube.com/watch?v=rkijaR2wbYY\" target=\"_blank\" class=\"text-danger\">Las preposiciones</a><br><br><a href=\"https://www.youtube.com/watch?v=jwbG1jJC8AM\" target=\"_blank\" class=\"text-danger\">Preposiciones y conjunciones</a><br><br><a href=\"https://www.youtube.com/watch?v=RuG-wrBj3oU\" target=\"_blank\" class=\"text-danger\">Los pronombres y sus clases   Lengua Española análisis morfológico   academia JAF</a><br><br><a href=\"https://www.youtube.com/watch?v=J72qpoRueSc\" target=\"_blank\" class=\"text-danger\">QUEÍSMO Y DEQUEÍSMO   Dudas del español   Luisa Portilla Durand[2]</a><br><br><a href=\"https://www.youtube.com/watch?v=XXko5HL4uU8\" target=\"_blank\" class=\"text-danger\">Recursos Cohesivos</a><br><br><a href=\"https://www.youtube.com/watch?v=fFRzBdh-oaY\" target=\"_blank\" class=\"text-danger\">¿Cómo redactar un buen párrafo?</a><br><br><a href=\"https://www.youtube.com/watch?v=DOfLsoUJz3Q\" target=\"_blank\" class=\"text-danger\">La palabra significado y significante</a><br><br><a href=\"https://www.youtube.com/watch?v=hi86kdNMBD4\" class=\"text-danger\">Saussure El signo lingüístico   Lingüística   Educatina</a><br><br><a href=\"https://www.youtube.com/watch?v=yAAFM8Ilxjw\" target=\"_blank\" class=\"text-danger\">Cómo usar correctamente los signos de puntuación</a><br><br><a href=\"https://www.youtube.com/watch?v=WOWUPoQVg44\" target=\"_blank\" class=\"text-danger\">Cuándo usar el punto, la coma y el punto y coma</a><br><br><a href=\"https://www.youtube.com/watch?v=O3gTz0Ir3rI\" target=\"_blank\" class=\"text-danger\">Signos de puntuación (1) Qué son y cómo se utilizan</a><br><br><a href=\"https://www.youtube.com/watch?v=BcBvbCwWUmo\" target=\"_blank\" class=\"text-danger\">Sinónimos, Antónimos y Parónimos   Videos Educativos</a>&nbsp;<br><br><a href=\"https://www.youtube.com/watch?v=IXImvSiNKcQ\" target=\"_blank\" class=\"text-danger\">El Sintagma Adjetival   Análisis sintáctico Lengua Española sintaxis   academia JAF</a><br><br><a href=\"https://www.youtube.com/watch?v=9xlFVJmqFdA\" target=\"_blank\" class=\"text-danger\">Los sintagmas El Sintagma Nominal   Análisis sintáctico Lengua Española sintaxis   academia JAF</a><br><br><a href=\"https://www.youtube.com/watch?v=6N2BvJab170\" target=\"_blank\" class=\"text-danger\">Subjuntivo vs Indicativo</a><br><br><a href=\"https://www.youtube.com/watch?v=shJd5vDzzQY\" target=\"_blank\" class=\"text-danger\">Sujeto Expreso y Sujeto Tácito   Lengua   Educatina</a><br><br><a href=\"https://www.youtube.com/watch?v=o0R4ze6s0W0\" target=\"_blank\" class=\"text-danger\">Suplemento o Complemento de Régimen   Análisis Sintáctico Lengua Española   academia JAF</a><br><br><a href=\"https://www.youtube.com/watch?v=OWHSdCM10EU\" target=\"_blank\" class=\"text-danger\">sustantivo, pronombre, verbo,advervio,adjetivo</a><br><br><a href=\"https://www.youtube.com/watch?v=WeHqHs2MuEU\" target=\"_blank\" class=\"text-danger\">Vídeo didáctico Sustantivo y adjetivo</a><br><br><a href=\"https://www.youtube.com/watch?v=9QfII8JWfAk\" target=\"_blank\" class=\"text-danger\">7 Técnicas de Redacción</a><br><br><a href=\"https://www.youtube.com/watch?v=nO-JJckJ9Nk\" target=\"_blank\" class=\"text-danger\">Diferenciar Por qué  porque  porqué  por que, gramatica español</a><br><br><a href=\"https://www.youtube.com/watch?v=4FTZJ6edC9E\" target=\"_blank\" class=\"text-danger\">Organización de las ideas o estructura del texto (Lengua)</a><br><br><a href=\"https://www.youtube.com/watch?v=Vys8y1imu9w\" target=\"_blank\" class=\"text-danger\">ESTRUCTURAS GRAMATICALES CESDE</a><br><br><a href=\"https://www.youtube.com/watch?v=iP2i_ZNPLDc\" target=\"_blank\" class=\"text-danger\">REDACCION DE TEXTOS</a><br><br><a href=\"https://www.youtube.com/watch?v=BMZepyt3wg8\" target=\"_blank\" class=\"text-danger\">Textos Informativos</a><br><br><a href=\"https://www.youtube.com/watch?v=ISfFGxzQiRk\" target=\"_blank\" class=\"text-danger\">Texto argumentativo</a><br><br><a href=\"https://www.youtube.com/watch?v=PMFiooFtNrc\" target=\"_blank\" class=\"text-danger\">Texto argumentativo 2.</a><br><br><a href=\"https://www.youtube.com/watch?v=scKNlrGtayQ\" target=\"_blank\" class=\"text-danger\">COMPRENSIÓN DE TEXTOS ARGUMENTATIVOS</a><br><br><a href=\"https://www.youtube.com/watch?v=l-vfr2YIN4I\" target=\"_blank\" class=\"text-danger\">¿Como hacer un texto argumentativo?</a><br><br><a href=\"https://www.youtube.com/watch?v=D8skdMATqO4\" target=\"_blank\" class=\"text-danger\">TIPOS DE TEXTOS</a><br><br><a href=\"https://www.youtube.com/watch?v=hJcuJ0GYkW0\" target=\"_blank\" class=\"text-danger\">Los Tipos de Texto</a><br>----------------------------------------------------------------------------------------------------------------------------<br></td></tr></tbody>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "table1",
+          "_anchor": "table1-3"
+        },
+        {
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#fff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018. &nbsp;Posgrado en Educación. Universidad Autónoma de Tlaxcala.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-8"
+        }
+      ]
+    }
+  }
+}
